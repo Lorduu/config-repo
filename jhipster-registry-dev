@@ -1,0 +1,3 @@
+jhipster:
+    registry:
+        dev: jhipster-registry-dev
